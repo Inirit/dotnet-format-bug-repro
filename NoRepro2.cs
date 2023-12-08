@@ -4,6 +4,6 @@ public class NoRepro2
 	{
 		Console.WriteLine("Hello, World!");
 
-		var num =0;
+		var num = 0;
 	}
 }
