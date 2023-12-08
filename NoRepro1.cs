@@ -1,4 +1,4 @@
-public class NoRepro
+public class NoRepro1
 {
 	public static void MyMethod()
 	{
